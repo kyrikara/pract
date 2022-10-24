@@ -1,1 +1,3 @@
-print('Hello world!')
+s = int(input())
+if s = 1:
+  print('Hello world!')
